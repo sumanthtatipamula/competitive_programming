@@ -7,7 +7,7 @@ heroText: Competitive Programming
 tagline: All essential Algorithms and Example problems.
 actions:
   - text: Get Started
-    link: ./DesignPrinciples/
+    link: ./BitManipulation/index.md
     type: primary
 
   - text: Buy me a coffee

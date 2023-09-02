@@ -6,7 +6,7 @@ export default defineUserConfig({
 	base: '/',
 
 	lang: 'en-US',
-	title: 'System Design',
+	title: 'Competitive Programming',
 
 	theme,
 
